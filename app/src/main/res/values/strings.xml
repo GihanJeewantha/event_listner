@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">event_listner</string>
+    <string name="button_1">Submit</string>
+    <string name="textView1">Hello JD</string>
+</resources>
